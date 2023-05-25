@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a cleanup for all my git repos 😋<br>🌱 I’m currently learning Swift<br>💬 Ask me about everything you like<br>⚡ Fun fact: If you can't find me in the office I'm probably at the golf course 🏌️‍♂️⛳
+🔭 I’m currently working on a cleanup for all my git repos 😋<br>🌱 I’m currently learning Flutter<br>💬 Ask me about everything you like<br>⚡ Fun fact: If you can't find me in the office I'm probably at the golf course 🏌️‍♂️⛳
 
 
 ## 🌐 Socials:
