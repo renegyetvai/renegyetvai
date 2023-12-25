@@ -8,7 +8,7 @@ Nice to meet you!
 
 * 🌍  I'm based in Hamburg
 * ✉️  You can contact me at [info@gyetvai.de](mailto:info@gyetvai.de)
-* 🚀  I'm currently working on [cleanup my repos](http://portfolio.gyetvai.de)
+* 🚀  I'm currently working on cleaning up my repos
 * 🧠  I'm learning Flutter
 * ⚡  Fun fact: If you can't find me in the office I'm probably at the golf course 🏌️‍♂️⛳
 
